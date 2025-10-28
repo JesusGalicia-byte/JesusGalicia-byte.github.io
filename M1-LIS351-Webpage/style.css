@@ -8,3 +8,19 @@ body {
   margin: 20px;   
   padding: 20px;
 }
+
+.actors-page {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  gap: 20px;
+}
+
+.actors-page nav {
+  background-color: #a5a5a5;
+  padding: 10px;
+}
+
+.actors-page main {
+  background-color: #cfcfcf;
+  padding: 10px;
+}
