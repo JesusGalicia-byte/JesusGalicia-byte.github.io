@@ -8,3 +8,9 @@ body {
   margin: 20px;   
   padding: 20px;
 }
+
+.unique-page{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 20px
+}
