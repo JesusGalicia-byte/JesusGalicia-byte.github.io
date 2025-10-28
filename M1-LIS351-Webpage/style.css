@@ -2,3 +2,8 @@ h1 {
   font-family: "Georgia", serif; 
   color: #222;
 }
+
+body {
+  background-color: #7d7c7c; /* light gray, change to any color you like */
+  margin: 20px;
+}
