@@ -3,7 +3,7 @@ h1 {
   color: #222;
 }
 .actors-page{
-  background-color: lightgray;
+  background-color: rgb(53, 53, 53);
 }
 .actors-page {
   display: grid;
